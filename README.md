@@ -35,7 +35,7 @@ dbdapp/
    ```
 3. Navigate to the folder where you saved the project:
    ```bash
-   cd D:\dbdapp
+   cd (where you put the folder with the files inside)
    ```
 
 ---
@@ -72,21 +72,6 @@ You’ll see a menu like this:
 - `data.json`: permanent full list of killers/perks.
 - `state.json`: tracks what's left during your current session.
 - When you reset, `state.json` is restored from `data.json`.
-
----
-
-## 🧰 Customization Ideas
-
-Want to add more features?
-
-- 🎯 Draw 3 perks instead of 1
-- 💾 Save draw history to a file
-- 🎨 GUI version using Tkinter or PyQt
-- 🧪 Add Survivor mode
-
-Let us know if you'd like help expanding this project!
-
----
 
 ## 🔹 Made for DBD fans, by DBD fans.
 
